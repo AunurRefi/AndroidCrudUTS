@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cymas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-abfbcc35664745c2f5dc3b4cfe65a8b003b767a4.jar" />
+    </item>
+    <item
+        jar="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/pre-dexed/debug/classes-fa1424592b7df221e73fcafba21c1b4252c2f6fa.jar" />
+    </item>
+    <item
+        jar="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-0700f4a12fb9849f94dcd25cad2034f400c77692.jar" />
+    </item>
+    <item
+        jar="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/cymas/Downloads/Bokingfutsal/app/build/intermediates/pre-dexed/debug/classes-e13bc275fe81c75feb2e2e65c927b811dbfdeee4.jar" />
+    </item>
+
+</items>
